@@ -1,7 +1,11 @@
 # Website | Simone and Peter's Airbnb
-The project involved creating a website for a fictitious business, Simone and Peter's Airbnb, to further promote their Airbnb business. The website needed to include information about the Airbnb and their local area. Paper-based images and information about the Airbnb, including amenities and a cancellation policy, were supplied by the owners.
+The project involved creating a website for a fictitious business, Simone and Peter's Airbnb, to further promote their Airbnb business. 
 
-The project was completed within 2 weeks for 1 assessment whilst completing the Fundamentals of IT course at Open Polytechnic NZ as part of the Web Development and Design diploma. The website was built with HTML and CSS code and was designed to be responsive to be usable on mobile devices. The home page includes a call for action that takes visitors to the local attractions page with links to local tourism sites to provide visitors with information on sightseeing attractions and places to eat. Another call for action on the home page takes visitors to the about page that includes a gif images slideshow with pictures of the Airbnb. The website also includes an embedded YouTube clip taking visitors on a tour through the Airbnb and a Google map to indicate the Airbnb's location. Furthermore, a logo was created and added to the website. The logo and images were manipulated within GIMP.
+The website needed to include information about the Airbnb and their local area. Paper-based images and information about the Airbnb, including amenities and a cancellation policy, were supplied by the owners.
+
+The project was completed within 2 weeks for 1 assessment whilst completing the Fundamentals of IT course at Open Polytechnic NZ as part of the Web Development and Design diploma. The website was built with HTML and CSS code and was designed to be responsive to be usable on mobile devices. 
+
+The home page includes a call for action that takes visitors to the local attractions page with links to local tourism sites to provide visitors with information on sightseeing attractions and places to eat. Another call for action on the home page takes visitors to the about page that includes a gif images slideshow with pictures of the Airbnb. The website also includes an embedded YouTube clip taking visitors on a tour through the Airbnb and a Google map to indicate the Airbnb's location. Furthermore, a logo was created and added to the website. The logo and images were manipulated within GIMP.
 
 # Screenshots
 # Home Page
